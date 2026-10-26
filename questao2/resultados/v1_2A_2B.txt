@@ -1,0 +1,87 @@
+=== Versao 1: 2 processo(s) A, 2 processo(s) B, 20s ===
+[B 2668] aguardando pedidos
+[B 2668] recebeu 52 e 14 de A 2673
+[B 2669] aguardando pedidos
+[B 2669] recebeu 62 e 92 de A 2672
+[A 2673] iniciado
+[A 2673] 52 + 14 = 66  (B 2668)
+[A 2672] iniciado
+[A 2672] 62 + 92 = 154  (B 2669)
+[B 2668] recebeu 16 e 39 de A 2673
+[B 2669] recebeu 17 e 77 de A 2672
+[A 2673] 16 + 39 = 55  (B 2668)
+[A 2672] 17 + 77 = 94  (B 2669)
+[B 2668] recebeu 15 e 52 de A 2673
+[B 2669] recebeu 13 e 78 de A 2672
+[A 2673] 15 + 52 = 67  (B 2668)
+[A 2672] 13 + 78 = 91  (B 2669)
+[B 2668] recebeu 97 e 76 de A 2673
+[B 2669] recebeu 45 e 61 de A 2672
+[A 2673] 97 + 76 = 173  (B 2668)
+[A 2672] 45 + 61 = 106  (B 2669)
+[B 2668] recebeu 26 e 7 de A 2673
+[B 2669] recebeu 52 e 11 de A 2672
+[A 2673] 26 + 7 = 33  (B 2668)
+[A 2672] 52 + 11 = 63  (B 2669)
+[B 2668] recebeu 35 e 28 de A 2673
+[B 2669] recebeu 33 e 93 de A 2672
+[A 2673] 35 + 28 = 63  (B 2668)
+[A 2672] 33 + 93 = 126  (B 2669)
+[B 2669] recebeu 92 e 16 de A 2672
+[B 2668] recebeu 89 e 49 de A 2673
+[A 2673] 89 + 49 = 108  <-- ERRADO! resposta era de 92 + 16 (B 2669)
+[A 2672] 92 + 16 = 138  <-- ERRADO! resposta era de 89 + 49 (B 2668)
+[B 2669] recebeu 70 e 52 de A 2673
+[B 2668] recebeu 81 e 86 de A 2672
+[A 2673] 70 + 52 = 122  (B 2669)
+[B 2669] recebeu 79 e 13 de A 2673
+[A 2672] 81 + 86 = 167  (B 2668)
+[B 2668] recebeu 75 e 85 de A 2672
+[A 2673] 79 + 13 = 92  (B 2669)
+[B 2669] recebeu 56 e 6 de A 2673
+[A 2672] 75 + 85 = 160  (B 2668)
+[B 2668] recebeu 45 e 68 de A 2672
+[A 2673] 56 + 6 = 62  (B 2669)
+[B 2669] recebeu 84 e 96 de A 2673
+[A 2672] 45 + 68 = 113  (B 2668)
+[B 2668] recebeu 34 e 52 de A 2672
+[A 2673] 84 + 96 = 180  (B 2669)
+[B 2669] recebeu 81 e 13 de A 2673
+[A 2672] 34 + 52 = 86  (B 2668)
+[B 2668] recebeu 90 e 25 de A 2672
+[A 2673] 81 + 13 = 94  (B 2669)
+[B 2669] recebeu 96 e 37 de A 2673
+[A 2672] 90 + 25 = 115  (B 2668)
+[B 2668] recebeu 34 e 33 de A 2672
+[A 2673] 96 + 37 = 133  (B 2669)
+[B 2669] recebeu 47 e 0 de A 2673
+[A 2672] 34 + 33 = 67  (B 2668)
+[B 2668] recebeu 10 e 23 de A 2672
+[A 2673] 47 + 0 = 47  (B 2669)
+[B 2669] recebeu 35 e 9 de A 2673
+[A 2672] 10 + 23 = 33  (B 2668)
+[B 2668] recebeu 54 e 47 de A 2672
+[A 2673] 35 + 9 = 44  (B 2669)
+[B 2669] recebeu 55 e 39 de A 2673
+[A 2672] 54 + 47 = 101  (B 2668)
+[B 2668] recebeu 90 e 69 de A 2672
+[A 2673] 55 + 39 = 94  (B 2669)
+[A 2672] 90 + 69 = 159  (B 2668)
+[B 2669] recebeu 23 e 71 de A 2673
+[B 2668] recebeu 40 e 60 de A 2672
+[A 2673] 23 + 71 = 94  (B 2669)
+[B 2669] recebeu 30 e 39 de A 2673
+[A 2672] 40 + 60 = 100  (B 2668)
+[B 2668] recebeu 46 e 5 de A 2672
+[A 2673] 30 + 39 = 69  (B 2669)
+[B 2669] recebeu 23 e 80 de A 2673
+[A 2672] 46 + 5 = 51  (B 2668)
+[B 2668] recebeu 38 e 43 de A 2672
+[A 2673] 23 + 80 = 103  (B 2669)
+[B 2669] recebeu 67 e 1 de A 2673
+[A 2672] 38 + 43 = 81  (B 2668)
+[B 2668] recebeu 66 e 90 de A 2672
+[A 2672] encerrando: 19 respostas, 1 erradas
+[A 2673] encerrando: 19 respostas, 1 erradas
+[B 2669] encerrando
+[B 2668] encerrando

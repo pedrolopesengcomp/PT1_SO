@@ -1,0 +1,47 @@
+=== Versao 1: 2 processo(s) A, 1 processo(s) B, 20s ===
+[B 2632] aguardando pedidos
+[B 2632] recebeu 51 e 37 de A 2635
+[B 2632] recebeu 77 e 40 de A 2636
+[A 2635] iniciado
+[A 2635] 51 + 37 = 88  (B 2632)
+[B 2632] recebeu 66 e 63 de A 2635
+[A 2636] iniciado
+[A 2636] 77 + 40 = 117  (B 2632)
+[B 2632] recebeu 99 e 97 de A 2636
+[A 2635] 66 + 63 = 129  (B 2632)
+[B 2632] recebeu 62 e 40 de A 2635
+[A 2636] 99 + 97 = 196  (B 2632)
+[B 2632] recebeu 71 e 19 de A 2636
+[A 2635] 62 + 40 = 102  (B 2632)
+[B 2632] recebeu 71 e 39 de A 2635
+[A 2636] 71 + 19 = 90  (B 2632)
+[B 2632] recebeu 91 e 56 de A 2636
+[A 2635] 71 + 39 = 110  (B 2632)
+[B 2632] recebeu 60 e 34 de A 2635
+[A 2636] 91 + 56 = 147  (B 2632)
+[B 2632] recebeu 32 e 92 de A 2636
+[A 2635] 60 + 34 = 94  (B 2632)
+[B 2632] recebeu 73 e 31 de A 2635
+[A 2636] 32 + 92 = 124  (B 2632)
+[B 2632] recebeu 21 e 16 de A 2636
+[A 2635] 73 + 31 = 104  (B 2632)
+[B 2632] recebeu 44 e 20 de A 2635
+[A 2636] 21 + 16 = 37  (B 2632)
+[B 2632] recebeu 60 e 19 de A 2636
+[A 2635] 44 + 20 = 64  (B 2632)
+[B 2632] recebeu 7 e 92 de A 2635
+[A 2636] 60 + 19 = 79  (B 2632)
+[B 2632] recebeu 94 e 13 de A 2636
+[A 2635] 7 + 92 = 99  (B 2632)
+[B 2632] recebeu 55 e 51 de A 2635
+[A 2636] 94 + 13 = 107  (B 2632)
+[B 2632] recebeu 38 e 66 de A 2636
+[A 2635] 55 + 51 = 106  (B 2632)
+[B 2632] recebeu 17 e 71 de A 2635
+[A 2636] 38 + 66 = 104  (B 2632)
+[B 2632] recebeu 82 e 42 de A 2636
+[A 2635] 17 + 71 = 88  (B 2632)
+[A 2635] encerrando: 10 respostas, 0 erradas
+[A 2636] encerrando: 9 respostas, 0 erradas
+[B 2632] recebeu 62 e 68 de A 2635
+[B 2632] encerrando

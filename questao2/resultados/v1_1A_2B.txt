@@ -1,0 +1,46 @@
+=== Versao 1: 1 processo(s) A, 2 processo(s) B, 20s ===
+[B 2650] aguardando pedidos
+[B 2650] recebeu 27 e 50 de A 2654
+[A 2654] iniciado
+[A 2654] 27 + 50 = 77  (B 2650)
+[B 2651] aguardando pedidos
+[B 2651] recebeu 9 e 28 de A 2654
+[A 2654] 9 + 28 = 37  (B 2651)
+[B 2650] recebeu 23 e 60 de A 2654
+[A 2654] 23 + 60 = 83  (B 2650)
+[B 2651] recebeu 86 e 98 de A 2654
+[A 2654] 86 + 98 = 184  (B 2651)
+[B 2650] recebeu 1 e 95 de A 2654
+[A 2654] 1 + 95 = 96  (B 2650)
+[B 2651] recebeu 24 e 34 de A 2654
+[A 2654] 24 + 34 = 58  (B 2651)
+[B 2650] recebeu 85 e 23 de A 2654
+[A 2654] 85 + 23 = 108  (B 2650)
+[B 2651] recebeu 88 e 20 de A 2654
+[A 2654] 88 + 20 = 108  (B 2651)
+[B 2650] recebeu 79 e 69 de A 2654
+[A 2654] 79 + 69 = 148  (B 2650)
+[B 2651] recebeu 46 e 13 de A 2654
+[A 2654] 46 + 13 = 59  (B 2651)
+[B 2650] recebeu 91 e 7 de A 2654
+[A 2654] 91 + 7 = 98  (B 2650)
+[B 2651] recebeu 26 e 25 de A 2654
+[A 2654] 26 + 25 = 51  (B 2651)
+[B 2650] recebeu 50 e 65 de A 2654
+[A 2654] 50 + 65 = 115  (B 2650)
+[B 2651] recebeu 73 e 29 de A 2654
+[A 2654] 73 + 29 = 102  (B 2651)
+[B 2650] recebeu 74 e 57 de A 2654
+[A 2654] 74 + 57 = 131  (B 2650)
+[B 2651] recebeu 76 e 1 de A 2654
+[A 2654] 76 + 1 = 77  (B 2651)
+[B 2650] recebeu 59 e 38 de A 2654
+[A 2654] 59 + 38 = 97  (B 2650)
+[B 2651] recebeu 29 e 34 de A 2654
+[A 2654] 29 + 34 = 63  (B 2651)
+[B 2650] recebeu 98 e 67 de A 2654
+[A 2654] 98 + 67 = 165  (B 2650)
+[B 2651] recebeu 84 e 51 de A 2654
+[A 2654] encerrando: 19 respostas, 0 erradas
+[B 2650] encerrando
+[B 2651] encerrando
